@@ -154,7 +154,7 @@
   {
     "code": "0169",
     "name": "Mi Banco",
-    "name": "Mi Banco, Banco Microfinanciero C.A.",
+    "legalName": "Mi Banco, Banco Microfinanciero C.A.",
     "shortName": "Mi Banco",
     "rif": "J315941023",
     "url": "http://www.mibanco.com.ve/"
@@ -162,7 +162,7 @@
   {
     "code": "0171",
     "name": "Banco Activo",
-    "name": "Banco Activo C.A. Banco Universal",
+    "legalName": "Banco Activo C.A. Banco Universal",
     "shortName": "Activo",
     "rif": "J080066227",
     "url": "http://www.bancoactivo.com/"
