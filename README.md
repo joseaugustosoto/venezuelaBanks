@@ -1,23 +1,23 @@
 #### Español
-# Lista de bancos en Venezuela
+# Lista de bancos en Venezuela 💰
 
 ## Información
 
-* Código del Banco
-* Nombre
-* Nombre corto
-* RIF
-* Sitio Web
+* "code" : "Código del Banco"
+* "name" : "Nombre Común"
+* "legalName" : "Nombre o Denominación Legal"
+* "shortName" : "Nombre Corto o Siglas"
+* "rif" : "RIF Registro de Información Fiscal"
+* "url" : "Sitio Web"
 
 #### English
-# Bank List in Venezuela
+# Bank List in Venezuela 💰
 
 ## Information
 
-* Bank Code
-* Name
-* Short Name
-* RIF
-* Website
-
-Forked from: https://github.com/blackandres/bankListVEN
+* "code" : "Bank Code"
+* "name" : "Common Name"
+* "legalName" : "Name or Legal Denomination"
+* "shortName" : "Short Name or Acronyms"
+* "rif" : "RIF Tax Information Registry"
+* "url" : "Website"
