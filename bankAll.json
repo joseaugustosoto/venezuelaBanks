@@ -1,0 +1,272 @@
+[
+  {
+    "code": "0001",
+    "name": "Banco Central de Venezuela",
+    "legalName": "Banco Central de Venezuela",
+    "shortName": "BCV",
+    "rif": "G200001100",
+    "url": "https://www.bcv.org.ve/",
+    "active": 1
+  },
+  {
+    "code": "0102",
+    "name": "Banco de Venezuela",
+    "legalName": "Banco de Venezuela, S.A. Banco Universal",
+    "shortName": "BDV",
+    "rif": "G200099976",
+    "url": "http://www.bancodevenezuela.com/",
+    "active": 1
+  },
+  {
+    "code": "0104",
+    "name": "Banco Venezolano de Crédito",
+    "legalName": "Venezolano de Crédito, S.A. Banco Universal",
+    "shortName": "BVC",
+    "rif": "J000029709",
+    "url": "http://www.venezolano.com/",
+    "active": 1
+  },
+  {
+    "code": "0105",
+    "name": "Mercantil Banco",
+    "legalName": "Banco Mercantil, C.A. Banco Universal",
+    "shortName": "Mercantil",
+    "rif": "J000029610",
+    "url": "https://www.mercantilbanco.com/",
+    "active": 1
+  },
+  {
+    "code": "0108",
+    "name": "BBVA Provincial",
+    "legalName": "Banco Provincial, S.A. Banco Universal",
+    "shortName": "Provincial",
+    "rif": "J000029679",
+    "url": "https://www.provincial.com/",
+    "active": 1
+  },
+  {
+    "code": "0114",
+    "name": "Bancaribe",
+    "legalName": "Banco del Caribe, C.A. Banco Universal",
+    "shortName": "Bancaribe",
+    "rif": "J000029490",
+    "url": "https://www.bancaribe.com.ve/",
+    "active": 1
+  },
+  {
+    "code": "0115",
+    "name": "Banco Exterior",
+    "legalName": "Banco Exterior, C.A. Banco Universal",
+    "shortName": "Exterior",
+    "rif": "J000029504",
+    "url": "http://www.bancoexterior.com/",
+    "active": 1
+  },
+  {
+    "code": "0116",
+    "name": "Banco Occidental de Descuento",
+    "legalName": "Banco Occidental de Descuento, Banco Universal C.A",
+    "shortName": "BOD",
+    "rif": "J300619460",
+    "url": "http://www.bod.com.ve/",
+    "active": 0
+  },
+  {
+    "code": "0128",
+    "name": "Banco Caroní",
+    "legalName": "Banco Caroni, C.A. Banco Universal",
+    "shortName": "Caroní",
+    "rif": "J095048551",
+    "url": "http://www.bancocaroni.com.ve/",
+    "active": 1
+  },
+  {
+    "code": "0134",
+    "name": "Banesco",
+    "legalName": "Banesco Banco Universal, C.A",
+    "shortName": "Banesco",
+    "rif": "J070133805",
+    "url": "http://www.banesco.com/",
+    "active": 1
+  },
+  {
+    "code": "0137",
+    "name": "Banco Sofitasa",
+    "legalName": "Banco Sofitasa Banco Universal, C. A",
+    "shortName": "Sofitasa",
+    "rif": "J090283846",
+    "url": "http://www.sofitasa.com/",
+    "active": 1
+  },
+  {
+    "code": "0138",
+    "name": "Banco Plaza",
+    "legalName": "Banco Plaza, C.A. Banco Universal",
+    "shortName": "Plaza",
+    "rif": "J002970553",
+    "url": "http://www.bancoplaza.com/",
+    "active": 1
+  },
+  {
+    "code": "0146",
+    "name": "Banco de la Gente Emprendedora",
+    "legalName": "Banco de la Gente Emprendedora (BANGENTE), C.A",
+    "shortName": "Bangente",
+    "rif": "J301442040",
+    "url": "http://www.bangente.com.ve/",
+    "active": 1
+  },
+  {
+    "code": "0151",
+    "name": "Banco Fondo Común",
+    "legalName": "BFC Banco Fondo Común C.A. Banco Universal",
+    "shortName": "BFC",
+    "rif": "J000723060",
+    "url": "https://www.bfc.com.ve/",
+    "active": 1
+  },
+  {
+    "code": "0156",
+    "name": "100% Banco",
+    "legalName": "100% Banco, Banco Universal C.A.",
+    "shortName": "100% Banco",
+    "rif": "J085007768",
+    "url": "http://www.100x100banco.com/",
+    "active": 1
+  },
+  {
+    "code": "0157",
+    "name": "DelSur",
+    "legalName": "DelSur Banco Universal, C.A.",
+    "shortName": "DelSur",
+    "rif": "J000797234",
+    "url": "http://www.delsur.com.ve/",
+    "active": 1
+  },
+  {
+    "code": "0163",
+    "name": "Banco del Tesoro",
+    "legalName": "Banco del Tesoro, C.A. Banco Universal",
+    "shortName": "Tesoro",
+    "rif": "G200051876",
+    "url": "http://www.bt.gob.ve/",
+    "active": 1
+  },
+  {
+    "code": "0166",
+    "name": "Banco Agrícola de Venezuela",
+    "legalName": "Banco Agrícola de Venezuela C.A. Banco Universal",
+    "shortName": "BAV",
+    "rif": "G200057955",
+    "url": "http://www.bav.com.ve/",
+    "active": 1
+  },
+  {
+    "code": "0168",
+    "name": "Bancrecer",
+    "legalName": "Bancrecer S.A. Banco Microfinanciero",
+    "shortName": "Bancrecer",
+    "rif": "J316374173",
+    "url": "https://www.bancrecer.com.ve/",
+    "active": 1
+  },
+  {
+    "code": "0169",
+    "name": "Mi Banco",
+    "legalName": "Mi Banco, Banco Microfinanciero C.A.",
+    "shortName": "Mi Banco",
+    "rif": "J315941023",
+    "url": "http://www.mibanco.com.ve/",
+    "active": 1
+  },
+  {
+    "code": "0171",
+    "name": "Banco Activo",
+    "legalName": "Banco Activo C.A. Banco Universal",
+    "shortName": "Activo",
+    "rif": "J080066227",
+    "url": "http://www.bancoactivo.com/",
+    "active": 1
+  },
+  {
+    "code": "0172",
+    "name": "Bancamiga",
+    "legalName": "Bancamiga Banco Universal, C.A.",
+    "shortName": "Bancamiga",
+    "rif": "J316287599",
+    "url": "http://www.bancamiga.com/",
+    "active": 1
+  },
+  {
+    "code": "0173",
+    "name": "Banco Internacional de Desarrollo",
+    "legalName": "Banco Internacional de Desarrollo, C.A. Banco Universal",
+    "shortName": "B.I.D",
+    "rif": "J294640109",
+    "url": "http://www.bid.com.ve/",
+    "active": 1
+  },
+  {
+    "code": "0174",
+    "name": "Banplus",
+    "legalName": "Banplus Banco Universal, C.A",
+    "shortName": "Banplus",
+    "rif": "J000423032",
+    "url": "http://www.banplus.com/",
+    "active": 1
+  },
+  {
+    "code": "0175",
+    "name": "Banco Bicentenario",
+    "legalName": "Banco Bicentenario del Pueblo de la Clase Obrera, Mujer y Comunas, Banco Universal.",
+    "shortName": "Bicentenario",
+    "rif": "G200091487",
+    "url": "https://www.bicentenariobu.com.ve/",
+    "active": 1
+  },
+  {
+    "code": "0177",
+    "name": "Banco de la Fuerza Armada Nacional Bolivariana",
+    "legalName": "Banco de la Fuerza Armada Nacional Bolivariana Bco Universal",
+    "shortName": "BANFANB",
+    "rif": "G200106573",
+    "url": "http://www.banfanb.com.ve/",
+    "active": 1
+  },
+  {
+    "code": "0178",
+    "name": "N58 Banco Digital",
+    "legalName": "N58 Banco Digital, Banco Microfinanciero, S.A.",
+    "shortName": "N58",
+    "rif": "",
+    "url": "https://www.n58bancodigital.com",
+    "active": 0
+  },
+  {
+    "code": "0190",
+    "name": "Citibank",
+    "legalName": "Citibank, N.A.",
+    "shortName": "Citi",
+    "rif": "J000526621",
+    "url": "https://www.citibank.com.ve",
+    "active": 0
+  },
+  {
+    "code": "0191",
+    "name": "Banco Nacional de Crédito",
+    "legalName": "Banco Nacional de Crédito, C.A. Banco Universal",
+    "shortName": "BNC",
+    "rif": "J309841327",
+    "url": "http://www.bnc.com.ve/",
+    "active": 1
+  },
+  {
+    "code": "0601",
+    "name": "Instituto Municipal de Crédito Popular",
+    "legalName": "Instituto Municipal de Crédito Popular",
+    "shortName": "IMCP",
+    "rif": "G200068973",
+    "url": "http://www.imcp.gob.ve/",
+    "active": 1
+  }
+]
