@@ -56,14 +56,6 @@
     "url": "http://www.bancoexterior.com/"
   },
   {
-    "code": "0116",
-    "name": "Banco Occidental de Descuento",
-    "legalName": "Banco Occidental de Descuento, Banco Universal C.A",
-    "shortName": "BOD",
-    "rif": "J300619460",
-    "url": "http://www.bod.com.ve/"
-  },
-  {
     "code": "0128",
     "name": "Banco Caroní",
     "legalName": "Banco Caroni, C.A. Banco Universal",
@@ -208,12 +200,12 @@
     "url": "http://www.banfanb.com.ve/"
   },
   {
-    "code": "0190",
-    "name": "Citibank",
-    "legalName": "Citibank, N.A.",
-    "shortName": "Citi",
-    "rif": "J000526621",
-    "url": "https://www.citibank.com.ve"
+    "code": "0178",
+    "name": "N58 Banco Digital",
+    "legalName": "N58 Banco Digital, Banco Microfinanciero, S.A.",
+    "shortName": "N58",
+    "rif": "",
+    "url": "https://www.n58bancodigital.com",
   },
   {
     "code": "0191",
@@ -222,13 +214,4 @@
     "shortName": "BNC",
     "rif": "J309841327",
     "url": "http://www.bnc.com.ve/"
-  },
-  {
-    "code": "0601",
-    "name": "Instituto Municipal de Crédito Popular",
-    "legalName": "Instituto Municipal de Crédito Popular",
-    "shortName": "IMCP",
-    "rif": "G200068973",
-    "url": "http://www.imcp.gob.ve/"
   }
-]
