@@ -217,12 +217,21 @@
   },
   {
     "code": "0175",
+    "name": "Banco Digital de los Trabajadores",
+    "legalName": "Banco Digital de los Trabajadores Banco Universal C.A.",
+    "shortName": "BDT",
+    "rif": "G200091487",
+    "url": "https://www.bdt.com.ve/"
+    "active": 1
+  },
+  {
+    "code": "0175",
     "name": "Banco Bicentenario",
     "legalName": "Banco Bicentenario del Pueblo de la Clase Obrera, Mujer y Comunas, Banco Universal.",
     "shortName": "Bicentenario",
     "rif": "G200091487",
     "url": "https://www.bicentenariobu.com.ve/",
-    "active": 1
+    "active": 0
   },
   {
     "code": "0177",
