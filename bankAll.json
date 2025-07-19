@@ -172,11 +172,11 @@
   },
   {
     "code": "0169",
-    "name": "Mi Banco",
-    "legalName": "Mi Banco, Banco Microfinanciero C.A.",
-    "shortName": "Mi Banco",
+    "name": "R4",
+    "legalName": "R4, Banco Microfinanciero C.A.",
+    "shortName": "R4",
     "rif": "J315941023",
-    "url": "http://www.mibanco.com.ve/",
+    "url": "https://r4conecta.io/",
     "active": 1
   },
   {
@@ -221,7 +221,7 @@
     "legalName": "Banco Digital de los Trabajadores Banco Universal C.A.",
     "shortName": "BDT",
     "rif": "G200091487",
-    "url": "https://www.bdt.com.ve/"
+    "url": "https://www.bdt.com.ve/",
     "active": 1
   },
   {
@@ -247,7 +247,7 @@
     "name": "N58 Banco Digital",
     "legalName": "N58 Banco Digital, Banco Microfinanciero, S.A.",
     "shortName": "N58",
-    "rif": "",
+    "rif": "J503581107",
     "url": "https://www.n58bancodigital.com",
     "active": 0
   },
